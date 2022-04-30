@@ -32,10 +32,13 @@ Experiments corresponding to the methods described in Chapter 5 of the thesis.
 Please refer to the below publications for more information.
 
 ```
-F. Dümbgen, A. Hoffet, A. Scholefield, and M. Vetterli, "Blind as a bat: audible echolocation on tiny robots", submitted to IEEE/RSJ International Conference on Intelligent Robotis and Systems, 2022.
+F. Dümbgen, A. Hoffet, A. Scholefield, and M. Vetterli, "Blind as a bat: 
+audible echolocation on tiny robots", submitted to IEEE/RSJ International 
+Conference on Intelligent Robotis and Systems, 2022.
 ```
 
 
 ```
-F. Dümbgen, "Blind as a bat: spatial perception without sight", Ph.D. disseration, École Polytechnique Fédérale de Lausanne, 2021.
+F. Dümbgen, "Blind as a bat: spatial perception without sight", 
+Ph.D. disseration, École Polytechnique Fédérale de Lausanne, 2021.
 ```
